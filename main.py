@@ -17,7 +17,7 @@ ax.scatter(list(df['x']), list(df['y']))
 #adapt picture dimensions to floorplan dimension (25x25m) to trajectory points match with floorplan
 ax.imshow(img, extent=[0, 25.00, 0, 25.00])
 
-#turn off grid and ticks
+#turn off grid and ticks from graph
 plt.grid('off')
 plt.axis('off')
 ax.grid()
