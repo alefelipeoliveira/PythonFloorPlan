@@ -16,4 +16,4 @@ Running with this command will show the floorplan plot
 $ python main.py
 ```
 
-![Trajectory in the Floor Plan](images\FloorPlan_with_trajectory.png)
+![Trajectory in the Floor Plan](https://github.com/alefelipeoliveira/PythonFloorPlan/tree/master/images/FloorPlan_with_trajectory.png)
