@@ -1,6 +1,7 @@
 # README
 
 This repository is dedicated to the creation of trajectory history and heat maps in generic floor plans.
+The idea is to use a plant as a background image and put the historical data on top.
 
 ## Requirements
 
