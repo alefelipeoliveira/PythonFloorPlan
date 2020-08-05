@@ -1,7 +1,7 @@
 # README
 
 This repository is dedicated to the creation of trajectory history and density maps in generic floor plans, for academic or work purposes.
-The idea is to use a plant as a background image and put the historical data on top.
+The idea is to use a plant as a background image and put the historical data on top. 
 
 ## Requirements
 
